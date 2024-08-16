@@ -471,7 +471,6 @@ namespace LINQ_Assignment01
             Console.WriteLine();
 
             #endregion
-
         }
     }
 }
